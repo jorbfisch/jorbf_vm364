@@ -1,8 +1,7 @@
 For my research I looked up how to have a score box on screen update. First I had to make a UI and score box. 
-Then I found a couple different ways to do this. 
 
 
-This tutorial shows you how to create UI texts. It shows how to make the score update through a manager script. 
+This is the tutorial I used: it shows you how to create UI texts. It shows how to make the score update through a manager script. 
 It explains how the script works connecting it to its text component. But this is a really simple script, but it 
 only works with another script that updates the value. This can only be a static script if there is one player.
 
@@ -24,4 +23,5 @@ to keep score of how many points you get from pick ups. It keeps track of the sc
 UpdateScoreText() function.
 (http://code.tutsplus.com/tutorials/getting-started-with-unity-gui-scoring-timers-particles--active-10057)
 
-NED! how do i get the bullets to come out of the camera?
+I had to make this collider for the images so that when the spheres leave the camera and they 
+https://cloud.githubusercontent.com/assets/16655980/14690992/dcf89908-071c-11e6-940a-df51bee24d1b.png
